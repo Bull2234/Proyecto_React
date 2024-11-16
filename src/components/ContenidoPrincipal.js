@@ -19,6 +19,15 @@ function ContenidoPrincipal() {
         style={{ maxWidth: "600px" }}>
         <h5 class="text-primary">Presentación</h5>
       </div>
+      <div class="card card-body">
+        <h2>
+          <strong>Desarrolladores</strong>
+        </h2>
+        <ul>
+          <li>Pedro Danilo Toro</li>
+          <li>Yasson Brayan Perenguez</li>
+        </ul>
+      </div>
       <Presentacion></Presentacion>
       <div
         class="text-center mx-auto wow fadeIn"
